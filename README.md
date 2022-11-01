@@ -16,3 +16,5 @@ curl https://raw.githubusercontent.com/wangzhe12588/bt59happy/master/update_pro.
 
 恢复免费面板:
 wget -O update.sh http://download.bt.cn/install/update.sh && bash update.sh free
+
+https://raw.githubusercontent.com/wangzhe12588/bt59happy/master/update_pro.sh
